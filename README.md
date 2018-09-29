@@ -1,5 +1,3 @@
-# bag-to-csv
-
 
 NOTE: db_dump_csv.py cannot run unless json_parser.py is ran first 
 ==================================================================
